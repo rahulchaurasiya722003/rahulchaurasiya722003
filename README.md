@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2f7b298b-afde-4b0a-af80-7dc19c9d7925" /><div align="center">
 
 # 👋 Hi, I'm Rahul Chaurasiya
 
@@ -266,7 +266,9 @@ Developed and enhanced workflows, components, and API integrations.
   </a>
 
 </div>
----
+
+
+
 
 <h2>🐍 Contribution Animation</h2>
 
@@ -285,7 +287,6 @@ Developed and enhanced workflows, components, and API integrations.
   </picture>
 
 </div>
------
 
 
 
