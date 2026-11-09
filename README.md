@@ -238,19 +238,32 @@ Developed and enhanced workflows, components, and API integrations.
 ---
 
 
-<h2>📈 Contribution Activity</h2>
+
+<h2>📈 GitHub Contribution Activity</h2>
 
 <div align="center">
 
   <a href="https://github.com/rahulchaurasiya722003">
     <img
-      src="https://ghchart.rshah.org/38BDF8/rahulchaurasiya722003"
-      alt="Rahul Chaurasiya GitHub Contribution Calendar"
-      width="100%"
+      src="https://ghchart.rshah.org/0284C7/rahulchaurasiya722003"
+      alt="Rahul Chaurasiya GitHub Contributions"
+      width="95%"
+    />
+  </a>
+
+  <p>
+    <b>Building consistently • Learning every day • Growing as a developer</b>
+  </p>
+
+  <a href="https://github.com/rahulchaurasiya722003">
+    <img
+      src="https://img.shields.io/badge/View_My_GitHub_Activity-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8"
+      alt="View GitHub Activity"
     />
   </a>
 
 </div>
+
 
 
 <!-- Statistics and streak cards are provided by external services; availability may vary. -->
