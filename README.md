@@ -1,5 +1,3 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2f7b298b-afde-4b0a-af80-7dc19c9d7925" /><div align="center">
-
 # 👋 Hi, I'm Rahul Chaurasiya
 
 ### Full Stack Developer | React.js · Node.js · MERN Stack
