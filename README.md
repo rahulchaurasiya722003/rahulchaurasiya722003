@@ -270,21 +270,31 @@ Developed and enhanced workflows, components, and API integrations.
 
 <h2>🐍 Contribution Animation</h2>
 
+
+<h2>🐍 Contribution Animation</h2>
+
 <div align="center">
 
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/rahulchaurasiya722003/rahulchaurasiya722003/output/github-contribution-grid-snake-dark.svg"
-    />
-    <img
-      alt="Rahul Chaurasiya Contribution Snake"
-      src="https://raw.githubusercontent.com/rahulchaurasiya722003/rahulchaurasiya722003/output/github-contribution-grid-snake.svg"
-      width="100%"
-    />
-  </picture>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/rahulchaurasiya722003/rahulchaurasiya722003/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/rahulchaurasiya722003/rahulchaurasiya722003/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Rahul Chaurasiya GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/rahulchaurasiya722003/rahulchaurasiya722003/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+  />
+</picture>
 
 </div>
+
+---
+
 
 
 
