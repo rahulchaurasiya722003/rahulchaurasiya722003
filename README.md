@@ -197,20 +197,55 @@ Developed and enhanced workflows, components, and API integrations.
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rahulchaurasiya722003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1" alt="Rahul's GitHub statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchaurasiya722003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1" alt="Most used languages across Rahul's public repositories" />
+<a href="https://github.com/rahulchaurasiya722003">
+  <img
+    width="49%"
+    src="https://github-readme-stats-fast.vercel.app/api?username=rahulchaurasiya722003&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Rahul Chaurasiya GitHub Stats"
+  />
+</a>
+<a href="https://github.com/rahulchaurasiya722003?tab=repositories">
+  <img
+    width="49%"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rahulchaurasiya722003&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Rahul Chaurasiya Most Used Languages"
+  />
+</a>
 
 </div>
 
-## 🔥 Contribution Streak
+---
+
+## 🔥 GitHub Contribution Streak
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=rahulchaurasiya722003&theme=tokyonight&hide_border=true&background=0F172A&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Rahul's GitHub contribution streak" />
+<a href="https://github.com/rahulchaurasiya722003">
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com?user=rahulchaurasiya722003&theme=tokyonight&hide_border=true"
+    alt="Rahul GitHub Contribution Streak"
+  />
+</a>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=rahulchaurasiya722003&theme=tokyo-night&hide_border=true"
+  width="100%"
+  alt="Rahul GitHub Contribution Activity"
+/>
 
 </div>
 
