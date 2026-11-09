@@ -237,17 +237,21 @@ Developed and enhanced workflows, components, and API integrations.
 
 ---
 
-## 📈 Contribution Activity
+
+<h2>📈 Contribution Activity</h2>
 
 <div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=rahulchaurasiya722003&theme=tokyo-night&hide_border=true"
-  width="100%"
-  alt="Rahul GitHub Contribution Activity"
-/>
+  <a href="https://github.com/rahulchaurasiya722003">
+    <img
+      src="https://ghchart.rshah.org/38BDF8/rahulchaurasiya722003"
+      alt="Rahul Chaurasiya GitHub Contribution Calendar"
+      width="100%"
+    />
+  </a>
 
 </div>
+
 
 <!-- Statistics and streak cards are provided by external services; availability may vary. -->
 <!-- Add a contribution snake only after configuring its GitHub Actions workflow and generating the SVG. -->
