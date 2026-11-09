@@ -266,11 +266,6 @@ Developed and enhanced workflows, components, and API integrations.
 </div>
 
 
-
-
-<h2>🐍 Contribution Animation</h2>
-
-
 <h2>🐍 Contribution Animation</h2>
 
 <div align="center">
