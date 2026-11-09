@@ -239,6 +239,26 @@ Developed and enhanced workflows, components, and API integrations.
 
 
 
+
+## 🐍 Contribution Animation
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/rahulchaurasiya722003/rahulchaurasiya722003/output/github-contribution-grid-snake-dark.svg"
+  alt="Rahul Chaurasiya GitHub Contribution Snake"
+  width="100%"
+/>
+
+</div>
+
+---
+
+
+---
+
+
+
 <h2>📈 GitHub Contribution Activity</h2>
 
 <div align="center">
