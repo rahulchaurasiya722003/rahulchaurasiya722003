@@ -194,32 +194,6 @@ Developed and enhanced workflows, components, and API integrations.
 - Identified and resolved issues through functional, integration, and UI testing.
 
 ---
-
-
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-  <a href="https://github.com/rahulchaurasiya722003">
-    <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api?username=rahulchaurasiya722003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-      alt="Rahul Chaurasiya GitHub Stats"
-    />
-  </a>
-
-  <a href="https://github.com/rahulchaurasiya722003?tab=repositories">
-    <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchaurasiya722003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-      alt="Rahul Chaurasiya Most Used Languages"
-    />
-  </a>
-
-</div>
-
-
 ---
 
 ## 🔥 GitHub Contribution Streak
